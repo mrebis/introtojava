@@ -7,7 +7,7 @@ public class Solution {
 		num =100;
 		
 		//Initialize step count to 0.
-        int steps=0;
+        int steps=1;
 
         //the loop keeps executing while num is greater than 0
         while(num > 0){
